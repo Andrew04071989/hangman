@@ -1,5 +1,5 @@
 # import random
-# words = ['кот', 'пес', 'кастрюля', 'лампочка', 'туалет', 'милиция']
+# words = []
 
 
 def hangman(word):
