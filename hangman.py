@@ -1,5 +1,5 @@
 # import random
-# words = []
+# words = ['список слов']
 
 
 def hangman(word):
